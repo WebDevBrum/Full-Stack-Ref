@@ -1,8 +1,9 @@
-# Ongoing log of resources, code snippets and projects for my continuing education.
+## Ongoing log of resources, code snippets and projects for my continuing education.
 
 __Codecademy - Full stack engineer path__
 
-![Codecademy logo ](images/codecademy.png "Description goes here")
+
+<img src='images/codecademy.png' width='100' height='100' />
 
 Resources
 
