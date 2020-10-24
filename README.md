@@ -1,2 +1,6 @@
-# CA-Web-development-career-path
- Projects , challenges and code of note as I progress through the Codecademy web-development-career-path
+# Ongoing log of resources, code snippets and projects for my continuing education.
+
+__Codecademy - Full stack engineer path__
+
+Resources
+
