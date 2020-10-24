@@ -1,9 +1,10 @@
 ## Ongoing log of resources, code snippets and projects for my continuing education.
 
+
 __Codecademy - Full stack engineer path__
 
 
-<img src='images/codecademy.png' width='100' height='100' />
+<img src='images/codecademy.png' width='100' height='100' alt='codecademy logo'/>
 
 Resources
 
@@ -17,6 +18,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_Jav
 Random resources
 
 __Github__
+
+<img src='images/github.png' width='100' height='100' alt='github logo'/>
+
 
 __Add an image to github README.md__
 
