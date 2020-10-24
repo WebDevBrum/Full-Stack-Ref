@@ -8,7 +8,7 @@ __Codecademy - Full stack engineer path__
 Resources
 
 
-<h2>19.React part 1</h2>
+<h2>React part 1</h2>
 
 __A re-introduction to JavaScript (JS tutorial)__
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
