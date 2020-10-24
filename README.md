@@ -7,6 +7,8 @@ __Codecademy - Full stack engineer path__
 Resources
 
 
+<h2>19.React part 1</h2>
+
 __A re-introduction to JavaScript (JS tutorial)__
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
@@ -18,4 +20,8 @@ __Github__
 __Add an image to github README.md__
 
 https://www.tilcode.com/add-a-screenshot-to-your-github-repo-readme-md/
+
+__how to style markdown images__
+
+https://www.xaprb.com/blog/how-to-style-images-with-markdown/
 
