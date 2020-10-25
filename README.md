@@ -14,6 +14,10 @@ Resources
 __A re-introduction to JavaScript (JS tutorial)__
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
+__An Introduction to functional programming__
+
+https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a
+
 
 Random resources
 
