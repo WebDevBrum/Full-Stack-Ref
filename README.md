@@ -21,6 +21,10 @@ __An Introduction to functional JavaScript__
 
 https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a
 
+__React tutorial via official docs__
+
+https://reactjs.org/tutorial/tutorial.html
+
 
 Random resources
 
