@@ -33,6 +33,9 @@ __Js For..in__
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
 
+__What the fork is the virtual Dom?__
+
+https://maggieappleton.com/react-vdom
 
 Random resources
 
