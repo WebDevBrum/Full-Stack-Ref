@@ -1,4 +1,4 @@
-<img src='images/photo.jpeg' width='800' height='150' alt='logo'/>
+<img src='images/photo.jpeg' width='500' height='150' alt='logo'/>
 
 
 ## Ongoing log of resources, code snippets and projects for my continuing education.
