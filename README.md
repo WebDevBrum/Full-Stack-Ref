@@ -25,6 +25,10 @@ __React tutorial via official docs__
 
 https://reactjs.org/tutorial/tutorial.html
 
+__Js For..in__
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+
 
 Random resources
 
