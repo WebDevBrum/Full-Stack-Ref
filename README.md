@@ -37,6 +37,10 @@ __What the fork is the virtual Dom?__
 
 https://maggieappleton.com/react-vdom
 
+__Create React App Documentation__
+
+https://create-react-app.dev
+
 Random resources
 
 __Github__
