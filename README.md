@@ -11,8 +11,11 @@ __Codecademy - Full stack engineer path__
 
 Resources
 
+---
 
 <h2>React part 1</h2>
+
+---
 
 __A re-introduction to JavaScript (JS tutorial)__
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
@@ -40,6 +43,20 @@ https://maggieappleton.com/react-vdom
 __Create React App Documentation__
 
 https://create-react-app.dev
+
+---
+
+## React Part 2
+
+---
+
+__React Dev Tools practice tutorial__
+
+https://react-devtools-tutorial.now.sh/
+
+__Debugging React in Vs Code__
+
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react
 
 Random resources
 
