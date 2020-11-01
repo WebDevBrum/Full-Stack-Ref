@@ -58,7 +58,11 @@ __Debugging React in Vs Code__
 
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react
 
-Random resources
+---
+
+## Random resources
+
+---
 
 __Github__
 
