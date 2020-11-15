@@ -13,6 +13,15 @@ Resources
 
 ---
 
+## JavaScript Syntax part 2
+
+---
+
+__How To Use Array Methods in JavaScript: Iteration Methods__
+
+https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
+
+
 <h2>React part 1</h2>
 
 ---
