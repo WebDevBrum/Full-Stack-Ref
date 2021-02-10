@@ -11,6 +11,21 @@ __Codecademy - Full stack engineer path__
 
 Resources
 
+
+---
+
+## Making a Website responsive 
+
+---
+
+__WireFrames__
+
+https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/
+
+https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/
+
+
+
 ---
 
 ## JavaScript Syntax part 2
