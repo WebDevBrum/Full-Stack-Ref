@@ -4,10 +4,7 @@
 ## Ongoing log of resources, code snippets and projects for my continuing education.
 
 
-__Codecademy - Full stack engineer path__
 
-
-<img src='images/codecademy.png' width='100' height='100' alt='codecademy logo'/>
 
 Resources
 
@@ -82,6 +79,18 @@ https://react-devtools-tutorial.now.sh/
 __Debugging React in Vs Code__
 
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react
+
+---
+
+## Typescript
+
+---
+
+## Jasmine testing
+
+---
+
+## Cloud Technologies 
 
 ---
 
