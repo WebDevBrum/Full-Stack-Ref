@@ -82,6 +82,24 @@ https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react
 
 ---
 
+## Back-End Development
+
+__The Web Development Team Structure You Should Know as a Stakeholder__
+
+https://tms-outsource.com/blog/posts/web-development-team-structure/
+
+__6 Tips on How To Structure a Development Team__
+
+https://stormotion.io/blog/6-tips-on-how-to-structure-a-development-team/
+
+__Node.js v16.2.0 documentation__
+
+https://nodejs.org/api/documentation.html
+
+
+---
+
+
 ## Typescript
 
 ---
