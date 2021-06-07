@@ -96,6 +96,10 @@ __Node.js v16.2.0 documentation__
 
 https://nodejs.org/api/documentation.html
 
+__History of front-end frameworks__
+
+https://blog.logrocket.com/history-of-frontend-frameworks/
+
 
 ---
 
