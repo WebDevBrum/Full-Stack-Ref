@@ -94,7 +94,15 @@ https://home.cern/science/computing/birth-web/short-history-web
 
 __Web Architecture 101__
 
-https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947
+https://medium.com/storyblocks-engineering/web-architecture-101-a3224e12694
+
+###...Servers....
+
+__Server (computing)__
+
+https://en.m.wikipedia.org/wiki/Server_(computing)
+
+
 
 ---
 
