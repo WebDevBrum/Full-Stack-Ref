@@ -8,30 +8,16 @@
 
 Resources
 
+---
+
+## MERN Stack with GraphQL
 
 ---
 
-## Making a Website responsive 
+__Full Stack open 2021__
 
----
+https://fullstackopen.com/en/
 
-__WireFrames__
-
-https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/
-
-https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/
-
-
-
----
-
-## JavaScript Syntax part 2
-
----
-
-__How To Use Array Methods in JavaScript: Iteration Methods__
-
-https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
 
 ---
 
@@ -84,6 +70,8 @@ https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react
 
 ## Back-End Development
 
+---
+
 __The Web Development Team Structure You Should Know as a Stakeholder__
 
 https://tms-outsource.com/blog/posts/web-development-team-structure/
@@ -100,19 +88,28 @@ __History of front-end frameworks__
 
 https://blog.logrocket.com/history-of-frontend-frameworks/
 
---A short history of the Web--
+__A short history of the Web__
 
 https://home.cern/science/computing/birth-web/short-history-web
 
+---
+
+## Algorithms and Data Structures
 
 ---
 
+__Complete Intro to Computer Science
+Data Structures and Algorithms - Brian Holt__
+
+https://btholt.github.io/complete-intro-to-computer-science/
+
+---
 
 ## Typescript
 
 ---
 
-## Jasmine testing
+## Testing
 
 ---
 
@@ -124,7 +121,9 @@ https://home.cern/science/computing/birth-web/short-history-web
 
 ---
 
-__Github__
+## Github
+
+---
 
 <img src='images/github.png' width='100' height='100' alt='github logo'/>
 
@@ -136,4 +135,28 @@ https://www.tilcode.com/add-a-screenshot-to-your-github-repo-readme-md/
 __how to style markdown images__
 
 https://www.xaprb.com/blog/how-to-style-images-with-markdown/
+
+---
+
+## Design resources
+
+---
+
+__WireFrames__
+
+https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/
+
+https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/
+
+
+
+---
+
+## JavaScript tips and Tricks
+
+---
+
+__How To Use Array Methods in JavaScript: Iteration Methods__
+
+https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
 
