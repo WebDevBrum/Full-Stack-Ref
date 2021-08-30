@@ -102,6 +102,10 @@ __Server (computing)__
 
 https://en.m.wikipedia.org/wiki/Server_(computing)
 
+__What is a web server?__
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+
 
 
 ---
