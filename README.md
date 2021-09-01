@@ -106,7 +106,10 @@ __What is a web server?__
 
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
 
+__Introduction to the Server side__
 
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction
 
 ---
 
