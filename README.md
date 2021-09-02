@@ -14,9 +14,7 @@ Resources
 
 ---
 
-__Full Stack open 2021__
-
-https://fullstackopen.com/en/
+[__Full Stack open 2021__](https://fullstackopen.com/en/)
 
 
 ---
@@ -25,8 +23,7 @@ https://fullstackopen.com/en/
 
 ---
 
-__A re-introduction to JavaScript (JS tutorial)__
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+[__A re-introduction to JavaScript (JS tutorial)__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 __An Introduction to functional JavaScript__
 
@@ -65,6 +62,7 @@ https://react-devtools-tutorial.now.sh/
 __Debugging React in Vs Code__
 
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react
+
 
 ---
 
@@ -124,6 +122,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduct
 __REST API Concepts and examples(vid)__
 
 https://youtu.be/7YcW25PHnAA
+
 
 ---
 
