@@ -96,7 +96,11 @@ __Web Architecture 101__
 
 https://medium.com/storyblocks-engineering/web-architecture-101-a3224e12694
 
+---
+
 ###...Servers....
+
+---
 
 __Server (computing)__
 
@@ -110,6 +114,16 @@ __Introduction to the Server side__
 
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction
+
+---
+
+###...RESTful API's...
+
+---
+    
+__REST API Concepts and examples(vid)__
+
+https://youtu.be/7YcW25PHnAA
 
 ---
 
