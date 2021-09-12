@@ -14,7 +14,7 @@ Resources
 
 ---
 
-[__Full Stack open 2021__](https://fullstackopen.com/en/)
+[__Full Stack open 2021 - The University of Helsinki__](https://fullstackopen.com/en/)
 
 
 ---
